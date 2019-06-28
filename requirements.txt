@@ -1,6 +1,6 @@
 lxml==4.1.0
 click==6.7
-requests==2.18.4
+requests==2.20.0
 more-itertools==4.1.0
 PyYAML==3.12
 networkx==2.1
